@@ -1,0 +1,6 @@
+Exploritory Data Analysis on a kaggle data set on the spectral properties of songs. The EDA is then used to perform a series of 1v1 classifications.
+
+Wrote functions to trim the n most correlated variables to boost our classifiers' performances. Then set up a software package to test the performance of a decision tree,
+random forrest, gradient descent model, and XGBoost model against one another.
+
+Used the results to discuss similarities between genres.
